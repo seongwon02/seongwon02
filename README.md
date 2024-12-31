@@ -1,4 +1,4 @@
-경북대학교 컴퓨터학부
+- 경북대학교 컴퓨터학부
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwon22)](https://solved.ac/seongwon22/)
 
