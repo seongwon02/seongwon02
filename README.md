@@ -16,3 +16,6 @@
 
 ## 📊 GitHub 통계
 ![Seongwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=seongwon02&show_icons=true&theme=default&hide_border=true)
+
+## 🎯백준
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwon22)
