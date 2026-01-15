@@ -1,0 +1,33 @@
+name: Metrics
+on:
+  # 매일 한국 시간 오전 9시(UTC 0시)에 자동 갱신
+  schedule: [{cron: "0 0 * * *"}]
+  # 수동으로 실행 가능하게 함
+  workflow_dispatch:
+  # 메인 브랜치에 푸시될 때도 실행
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 아까 등록한 Secret 사용
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # === 기본 설정 ===
+          user: seongwon02
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Seoul
+          
+          # === 언어 통계 설정 (백엔드 강조) ===
+          plugin_languages: yes
+          plugin_languages_ignored: >-
+            html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell,
+            gnuplot
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
