@@ -19,6 +19,3 @@
 
 ## 📊 GitHub 통계
 ![Seongwon's GitHub Metrics](github-metrics.svg)
-
-## 🎯백준
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=seongwon22)
