@@ -3,7 +3,9 @@
 확장성과 안정성을 갖춘 서비스를 만드는 것에 관심이 있습니다.
 
 <a href="mailto:seongwon2303@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></a>
-<a href="https://seongwon02.tistory.com/"><img src="https://img.shields.io/badge/DEV_BLOG-151515?style=for-the-badge&logo=tistory&logoColor=fff)"></a>
+<a href="https://velog.io/@seongwon2303/posts">
+  <img src="https://img.shields.io/badge/DEV_BLOG-151515?style=for-the-badge&logo=velog&logoColor=20C997">
+</a>
 
 
 ## 🚀 주요 활동
