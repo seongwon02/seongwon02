@@ -9,7 +9,7 @@
             <section>
                 <h1 class="field">
                     <img class="avatar" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAaQAAAGkCAIAAADxLsZiAAAACXBIWXMAAAsTAAALEwEAmpwYAAAMWElEQVR4nO3bwY3FOA4E0Imf+e1NQSiEPfIwpwHMpr/rPSiARpmqL1vofy5AgH+2/wCAv6DsgAjKDoig7IAIyg6IoOyACMoOiKDsgAjKDoig7IAIyg6IoOyACMoOiKDsgAjKDoig7IAIyg6IoOyACMoOiKDsgAjKDoig7IAIyg6IoOyACMoOiKDsgAjKDoig7IAIyg6IoOyACMoOiKDsgAjKDoig7IAIf1d29b9jSUACEqh/VcHfVJCyM3wSkMDZrWBlZwQlIIGIBK6T3fozsCQggVJ2/5WhkYAEJFBOdoZAAhKITeB6jV1/BpYEJFDKzmusbSABCZSTnW92toEEJFBeYw2BBCQggfLNzhBIQAJRCVwXFOvPwJKABErZuaCwDSQggXKyc0FhG0hAAuU11hBIQAISKN/sDIEEJBCVwHVBsf4MLAlIQNm5oLANJCCB42TngsI2kIAEjtdYQyABCUjg+GZnCCQggawErguK9WdgSUACpez8B4VtIAEJlJOd/6CwDSQggfIaawgkIAEJlG92hkACEohK4LqgWH8GlgQkUMrOBYVtIAEJlJOdCwrbQAISKK+xhkACEpBA+WZnCCQggagErguK9WdgSUACpexcUNgGEpBAOdm5oLANJCCB8hprCCQgAQmUb3aGQAISiErguqBYfwaWBCRQys4FhW0gAQmUk50LCttAAhIor7GGQAISkED5ZmcIJCCBqASuC4r1Z2BJQAKl7FxQ2AYSkICTnQsK20ACEjheYw2BBCQggeObnSGQgASyErguKNafgSUBCZSyc0FhG0hAAuVk5z8obAMJSKC8xhoCCUhAAuWbnSGQgASiErguKNafgSUBCZSyc0FhG0hAAuVk54LCNpCABMprrCGQgAQkUL7ZGQIJSCAqgeuCYv0ZWBKQQCk7FxS2gQQkUE52LihsAwlIoLzGGgIJSEAC5ZudIZCABKISuC4o1p+BJQEJlLJzQWEbSEAC5WTngsI2kIAEymusIZCABCRQvtkZAglIICqB64Ji/RlYEpBAKTsXFLaBBCRQTnYuKGwDCUjAa6whkIAEJHB8szMEEpBAVgL3YxcUvN/60P/uRuL9lB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdc5Qdbb2YlB1zlB1tvZiUHXOUHW29mJQdXyi79aG3JCCBeuVG+JsKUnb7Tzpw7P7Mep5WvWbqlJ1xVHZm4CT8xCo7g67szMBRdk9ynv+JBO63rOdp1WumzsnOOCo7M3ASfmKVnUFXdmZA2T3Kef4nErjfsp6nVa+ZOic746jszMBJ+IlVdgZd2ZmBo+ye5Dz/Ewncb1nP06rXTJ2TnXFUdmbgJPzEKjuDruzMwFF2T3Ke/4kE7res52nVa6bOyc44KjszcBJ+YpWdQVd2ZuAouyc5z/9EAvdb1vO06jVT52RnHJWdGTgJP7HKzqArOzNwlN2TnOd/IoH7Let5WvWaqXOyM47KzgychJ9YZWfQlZ0ZOMruSc7zP5HA/Zb1PK16zdQ52RlHZWcGTsJPrLIz6MrODBxl9yTn+Z9I4H7Lep5WvWbqnOyMo7IzAyfhJ1bZGXRlZwaOsnuS8/xPJHC/ZT1Pq14zdU52xlHZmYGT8BOr7Ay6sjMDR9k9yXn+JxK437Kep1WvmTonO+Oo7MxAxE+ssjPoys4MHGX3JOf5n0jgfst6nla9Zuqc7IyjsjMDJ+EnVtkZdGVnBo6ye5Lz/E8kcL9lPU+rXjN1TnbGUdmZgZPwE6vsDLqyMwNH2T3Jef4nErjfsp6nVa+ZOic746jszMBJ+IlVdgZd2ZmBo+ye5Dz/Ewncb1nP06rXTJ2TnXFUdmbgJPzEKjuDruzMwFF2T3Ke/4kE7res52nVa6bOyc44KjszcBJ+YpWdQVd2ZuAouyc5z/9EAvdb1vO06jVT52RnHJWdGTgJP7HKzqArOzNwlN2TnOd/IoH7Let5WvWaqXOyM47KzgychJ9YZWfQlZ0ZOMruSc7zP5HA/Zb1PK16zdQ52RlHZWcGTsJPrLIz6MrODBxl9yTn+Z9I4H7Lep5WvWbqnOyMo7IzAyfhJ1bZGXRlZwaOsnuS8/xPJHC/ZT1Pq14zdU52xlHZmYGT8BOr7Ay6sjMDR9k9yXn+JxK437Kep1WvmTonO+Oo7MzASfiJVXYGXdmZgaPsnuQ8/xMJ3G9Zz9Oq10ydk51xVHZm4CT8xCo7g67szMBRdk9ynpeABCRQTnaGQAISiE3g/gmvsftP2pJAeAJX2a0/A0sCEihl918ZGglIQALlZGcIJCCB2ASu19j1Z2BJQAKl7LzG2gYSkEA52flmZxtIQALlNdYQSEACEijf7AyBBCQQlcB1QbH+DCwJSKCUnQsK20ACEignOxcUtoEEJFBeYw2BBCQggfLNzhBIQAJRCVwXFOvPwJKABErZuaCwDSQggXKyc0FhG0hAAuU11hBIQAISKN/sDIEEJBCVwHVBsf4MLAlIoJSdCwrbQAISKCc7FxS2gQQkUF5jDYEEJCCB8s3OEEhAAlEJXBcU68/AkoAEStm5oLANJCCBcrJzQWEbSEAC5TXWEEhAAhIo3+wMgQQkEJXAdUGx/gwsCUiglJ0LCttAAhIoJzsXFLaBBCRQXmMNgQQkIIHyzc4QSEACUQlcFxTrz8CSgARK2bmgsA0kIIFysnNBYRtIQALlNdYQSEACEijf7AyBBCQQlcB1QbH+DCwJSKCUnQsK20ACEignOxcUtoEEJFBeYw2BBCQggfLNzhBIQAJRCVwXFOvPwJKABErZuaCwDSQggXKyc0FhG0hAAuU11hBIQAISKN/sDIEEJBCVwHVBsf4MLAlIoJSdCwrbQAISKCc7FxS2gQQkUF5jDYEEJCCB8s3OEEhAAlEJXBcU68/AkoAEStm5oLANJCCBcrJzQWEbSEAC5TXWEEhAAhIo3+wMgQQkEJXAdUGx/gwsCUiglJ0LCttAAhIoJzsXFLaBBCRQXmMNgQQkIIHyzc4QSEACUQlcFxTrz8CSgARK2bmgsA0kIIFysnNBYRtIQALlNdYQSEACEijf7AyBBCQQlcD92AUFwCJlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB0RQdkAEZQdEUHZABGUHRFB2QARlB9wE/wfBOeYrbSZKpwAAAABJRU5ErkJggg==" width="20" height="20" />
-                    <span>Kim Seongwon</span>
+                    <span>seongwon02</span>
                 </h1>
                 <div class="row">
                     <section>
@@ -43,7 +43,7 @@
                                     <rect class="day" x="150" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="165" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
                                     <rect class="day" x="180" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
-                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                                    <rect class="day" x="195" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
                                 </g>
                             </svg>
                         </div>
@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1309 Commits
+                            1310 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -281,7 +281,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13 Nov 2026, 13:35:33 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 13 Nov 2026, 22:50:34 (timezone Asia/Seoul) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
